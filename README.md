@@ -2,8 +2,6 @@
 
 **Multi-task R-GCN using RST discourse trees as typed graph edges.**
 
-MS CS Independent Study · University of Colorado Boulder
-
 ---
 
 ## Setup
