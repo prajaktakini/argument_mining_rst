@@ -1,0 +1,11 @@
+{
+  "run_name": "no_graph_baseline",
+  "relation_macro_f1": 0.40682674474176167,
+  "relation_support_f1": 0.6283704572098476,
+  "relation_attack_f1": 0.0830188679245283,
+  "relation_none_f1": 0.509090909090909,
+  "evidence_f1": 0.8236607142857143,
+  "evidence_precision": 0.7507629704984741,
+  "evidence_recall": 0.9122373300370828,
+  "evidence_accuracy": 0.7503949447077409
+}

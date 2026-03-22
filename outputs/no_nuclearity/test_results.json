@@ -1,0 +1,11 @@
+{
+  "run_name": "no_nuclearity",
+  "relation_macro_f1": 0.4121650760256587,
+  "relation_support_f1": 0.6120218579234973,
+  "relation_attack_f1": 0.08759124087591241,
+  "relation_none_f1": 0.5368821292775665,
+  "evidence_f1": 0.8111308466548254,
+  "evidence_precision": 0.7784090909090909,
+  "evidence_recall": 0.8467243510506799,
+  "evidence_accuracy": 0.7480252764612955
+}

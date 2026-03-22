@@ -1,0 +1,11 @@
+{
+  "run_name": "untyped_edges",
+  "relation_macro_f1": 0.3831684873740026,
+  "relation_support_f1": 0.5703564727954972,
+  "relation_attack_f1": 0.09063444108761329,
+  "relation_none_f1": 0.4885145482388974,
+  "evidence_f1": 0.8225988700564971,
+  "evidence_precision": 0.7575442247658689,
+  "evidence_recall": 0.899876390605686,
+  "evidence_accuracy": 0.7519747235387045
+}

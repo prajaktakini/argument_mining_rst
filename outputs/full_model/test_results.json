@@ -1,0 +1,11 @@
+{
+  "run_name": "full_model",
+  "relation_macro_f1": 0.41854480473719907,
+  "relation_support_f1": 0.5979381443298969,
+  "relation_attack_f1": 0.09846153846153846,
+  "relation_none_f1": 0.5592347314201619,
+  "evidence_f1": 0.8260869565217391,
+  "evidence_precision": 0.7522842639593909,
+  "evidence_recall": 0.9159456118665018,
+  "evidence_accuracy": 0.7535545023696683
+}
